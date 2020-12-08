@@ -1,1 +1,1 @@
-web: secret-santa-microservicegit
+web: secret-santa-microservice
