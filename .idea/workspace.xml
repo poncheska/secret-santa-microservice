@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6022c705-4f31-44d7-bbaf-441069783153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1gZAfrtumzlstEH7TWbLJ2FKvuo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build anonimous-email" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="anonimous-email" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="anonimous-email" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jsongen.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="anonimous-email" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/jsongen.go" />
+      <package value="anonimous-email" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="anonimous-email" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="anonimous-email" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build jsongen.go" />
+        <item itemvalue="Go Build.go build anonimous-email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="314" width="424" height="484" key="FileChooserDialogImpl" timestamp="1607419316344">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="776" y="314" width="424" height="484" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1607419316344" />
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom" timestamp="1607431290108">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="276" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1607431290108" />
+    <state width="1807" height="276" key="GridCell.Tab.0.center" timestamp="1607431290106">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="276" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1607431290106" />
+    <state width="1807" height="276" key="GridCell.Tab.0.left" timestamp="1607431290104">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="276" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1607431290104" />
+    <state width="1807" height="276" key="GridCell.Tab.0.right" timestamp="1607431290107">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="276" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1607431290107" />
+    <state width="1807" height="341" key="GridCell.Tab.1.bottom" timestamp="1607369235140">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.1.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1607369235140" />
+    <state width="1807" height="341" key="GridCell.Tab.1.center" timestamp="1607369235139">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.1.center/67.34.1853.1046@67.34.1853.1046" timestamp="1607369235139" />
+    <state width="1807" height="341" key="GridCell.Tab.1.left" timestamp="1607369235139">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.1.left/67.34.1853.1046@67.34.1853.1046" timestamp="1607369235139" />
+    <state width="1807" height="341" key="GridCell.Tab.1.right" timestamp="1607369235140">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state width="1807" height="341" key="GridCell.Tab.1.right/67.34.1853.1046@67.34.1853.1046" timestamp="1607369235140" />
+  </component>
+</project>
