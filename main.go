@@ -41,22 +41,20 @@ func main() {
 }
 
 func mainHandler(w http.ResponseWriter, r *http.Request) {
-	r.ParseForm()
-	jsonPersons := r.Form.Get("persons")
 	persons := new([]Person)
-	err := json.Unmarshal([]byte(jsonPersons), persons)
+	err := json.NewDecoder(r.Body).Decode(persons)
 	if err != nil {
 		fmt.Fprintln(w, JSONError(err))
-		log.Println("messages has been not sent: "+err.Error())
+		log.Println("messages has been not sent: " + err.Error())
 		return
 	}
 	err = SendMessages(*persons)
 	if err != nil {
 		fmt.Fprintln(w, JSONError(err))
-		log.Println("messages has been not sent: "+err.Error())
+		log.Println("messages has been not sent: " + err.Error())
 		return
 	}
-	log.Println("messages has been sent: "+jsonPersons)
+	log.Printf("messages has been sent: %v \n", *persons)
 }
 
 func SendMessages(persons []Person) error {
@@ -108,7 +106,7 @@ func SendEmail(to, txt string) error {
 	return err
 }
 
-func JSONError(err error) string{
+func JSONError(err error) string {
 	jsn, _ := json.Marshal(Err{err.Error()})
 	return string(jsn)
 }

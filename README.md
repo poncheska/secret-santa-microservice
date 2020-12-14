@@ -1,8 +1,6 @@
 # secret-santa-microservice
 
-The service accepts the POST parameter "persons" with a JSON file.
-
-Example client: https://play.golang.org/p/m84pIyKTDKH
+Example client: https://play.golang.org/p/-TcjmsRffRC
 
 Example JSON input:
 
@@ -11,7 +9,7 @@ Example JSON input:
   {"name":"Name1","email":"example1@gmail.com"},
   {"name":"Name2","email":"example2@gmail.com"}
 ]
-````
+```
 
 Output:
 
